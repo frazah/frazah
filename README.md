@@ -12,7 +12,7 @@
 <sub>// FIND ME IN THE ETHER // FOLLOW THE DIGITAL WIND //</sub>
 <br><br>
 <b>↓ SEE MY PROJECTS BELOW ↓</b>
-<br>
+<br> <br>
 <sub>[ END TRANSMISSION_ ]</sub>
 
 </div>
