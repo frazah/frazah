@@ -4,9 +4,9 @@
 <br>
 <b>༒༒༒ frazah.exe · Computer Science M.Sc. · Software Developer ༒༒༒</b>
 <br>
-<code>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</code>
+<i>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</i>
 <br>
-<i>find me in the ether / follow the digital wind</i>
+<code>find me in the ether / follow the digital wind</code>
 <br>
 <b>↓ SEE MY PROJECTS BELOW ↓</b>
 <br>
