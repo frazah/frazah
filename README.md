@@ -2,11 +2,12 @@
 
 <sub>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</sub>
 <br>
-<b> frazah.exe · Computer Science M.Sc. · Software Developer </b>
+<b> frazah.exe </b>
+<span>Computer Science M.Sc. · Software Developer </span>
 <br>
-<i>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</i>
+<small>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</small>
 <br>
-<code>find me in the ether / follow the digital wind</code>
+<i>{find me in the ether / follow the digital wind}</i>
 <br>
 <b>↓ SEE MY PROJECTS BELOW ↓</b>
 <br>
