@@ -1,7 +1,7 @@
 
 <div align="left">
 
-<code>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</code>
+<sub><code>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</code></sub>
 <br> 
 <b> > frazah.exe </b>
 <br>
