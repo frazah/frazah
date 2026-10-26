@@ -2,7 +2,7 @@
 
 <sub>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</sub>
 <br>
-<b>༒༒༒ frazah.exe · Computer Science M.Sc. · Software Developer ༒༒༒</b>
+<b> frazah.exe · Computer Science M.Sc. · Software Developer </b>
 <br>
 <i>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</i>
 <br>
