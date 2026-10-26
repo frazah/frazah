@@ -6,9 +6,10 @@
 <br>
 <code>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</code>
 <br>
-<code>find me in the ether / follow the digital wind</code>
+<i>find me in the ether / follow the digital wind</i>
 <br>
 <b>↓ SEE MY PROJECTS BELOW ↓</b>
+<br>
 <sub>[ END TRANSMISSION_ ]</sub>
 
 </div>
