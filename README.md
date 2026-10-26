@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<sub>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</sub>
+<sub><code>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</code></sub>
 <br> 
 <br>
-<code><b> ༒ frazah.exe ༒ </b></code>
+<b> ༒ frazah.exe ༒ </b>
 <br>
 <b>Computer Science M.Sc. · Software Developer</b>
 <br>
@@ -14,6 +14,6 @@
 <sub>// FIND ME IN THE ETHER // FOLLOW THE DIGITAL WIND //</sub>
 <br> 
 <br>
-<sub>[ END TRANSMISSION_ ]</sub>
+<sub><code>[ END TRANSMISSION_ ]</code></sub>
 
 </div>
