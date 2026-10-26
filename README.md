@@ -1,11 +1,10 @@
 <div align="center">
-  <sub>[ CONNECTED TO THE UNDERGROUND ]</sub>
-  <h3>✳ frazah.exe ✳</h3>
-  <code>&gt; USER PROFILE LOADED_</code>
+  <sub>[ CONNECTED TO THE UNDERGROUND ]; USER PROFILE LOADED_</sub>
+  <h3>༒ frazah.exe ༒</h3>
   <br><br>
   <b>Computer Science M.Sc. - Software Developer</b>
   <br>
-  <code>// ENTRY FRAGGER // NETRUNNER // 808MAKER</code>
+  <code>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</code>
   <br>
   <i>find me in the ether / look for the digital wind</i>
   <br><br>
