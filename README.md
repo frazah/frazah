@@ -9,7 +9,7 @@
 <br>
 <sub>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</sub>
 <br>
-<i>find me in the ether / look for the digital wind</i>
+<i>// FIND ME IN THE ETHER // FOLLOW THE DIGITAL WIND //</i>
 <br><br>
 <b>↓ SEE MY PROJECTS BELOW ↓</b>
 <br>
