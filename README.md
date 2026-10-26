@@ -6,8 +6,7 @@
 <br>
 <b> > frazah.exe </b>
 <br>
-<b> Computer Science M.Sc. // Software Developer</b>
-<br>
+<b>// Computer Science M.Sc. // Software Developer //</b>
 <br>
 <sub>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</sub>
 <br>
