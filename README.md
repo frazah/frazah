@@ -3,11 +3,11 @@
 
 <sub>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</sub>
 <br>
-<b>༒ frazah.exe ༒</b>
+<code>༒ frazah.exe ༒</code>
 <br>
 <b>Computer Science M.Sc. · Software Developer</b>
 <br>
-<sub><code>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</code></sub>
+<sub>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</sub>
 <br>
 <i>find me in the ether / look for the digital wind</i>
 <br><br>
