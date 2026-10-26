@@ -3,7 +3,6 @@
 <sub>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</sub>
 <br>
 <b>༒ frazah.exe ༒</b>
-<br><br>
 <b>Computer Science M.Sc. · Software Developer</b>
 <br>
 <code>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</code>
