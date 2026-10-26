@@ -10,9 +10,7 @@
 <sub>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</sub>
 <br>
 <sub>// FIND ME IN THE ETHER // FOLLOW THE DIGITAL WIND //</sub>
-<br>
-<sub>[ END TRANSMISSION_ ]</sub>
 <br> <br>
-<b>↓ PROJECTS BELOW ↓</b>
+<sub>[ END TRANSMISSION_ ]</sub>
 
 </div>
