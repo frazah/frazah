@@ -12,8 +12,5 @@
 <sub>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</sub>
 <br>
 <sub>// FIND ME IN THE ETHER // FOLLOW THE DIGITAL WIND //</sub>
-<br> 
-<br>
-<sub><code>[ END TRANSMISSION_ ]</code></sub>
 
 </div>
