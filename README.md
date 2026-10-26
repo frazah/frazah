@@ -1,9 +1,17 @@
 <div align="center">
-  <sub>[ CONNECTED TO THE UNDERGROUND ] USER PROFILE LOADED </sub>
-  <h3>༒ frazah.exe ༒</h3>
-  <h3>Computer Science M.Sc. - Software Developer</h3>
-  <code>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</code>
-  <code> > find me in the ether / look for the digital wind </i>
-  <h3>↓ SEE MY PROJECTS BELOW ↓</h3>
-  <sub>[ END TRANSMISSION_ ]</sub>
+
+<sub>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</sub>
+<br>
+<b>༒ frazah.exe ༒</b>
+<br><br>
+<b>Computer Science M.Sc. · Software Developer</b>
+<br>
+<code>// NETRUNNER // 808MAKER // ENTRY FRAGGER //</code>
+<br>
+<i>find me in the ether / look for the digital wind</i>
+<br><br>
+<b>↓ SEE MY PROJECTS BELOW ↓</b>
+<br>
+<sub>[ END TRANSMISSION_ ]</sub>
+
 </div>
