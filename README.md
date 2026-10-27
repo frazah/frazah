@@ -1,10 +1,10 @@
 <div align="center">
-<sub><code>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</code></sub>
+<sub><code>[ CONNECTED TO THE UNDERGROUND_ USER PROFILE LOADED_ ]</code></sub>
 <br>
 <br>
-<b> > frazah.exe </b>
+<b> > frazah </b>
 <br>
-<b>// Computer Science M.Sc. // Software Developer //</b>
+<b>// Computer Science M.Sc. // Software Dev //</b>
 <br>
 <br>
 <sub>// netrunner // 808maker // entry fragger //</sub>
