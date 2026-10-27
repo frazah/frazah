@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <sub><code>[ CONNECTED TO THE UNDERGROUND // USER PROFILE LOADED_ ]</code></sub>
 <br>
 <br>
