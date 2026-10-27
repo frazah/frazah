@@ -2,7 +2,7 @@
 <sub><code>[ CONNECTED TO THE UNDERGROUND_ USER PROFILE LOADED_ ]</code></sub>
 <br>
 <br>
-<b> > frazah </b>
+<b> ༒ frazah </b>
 <br>
 <b>Computer Science M.Sc. // Software Dev</b>
 <br>
