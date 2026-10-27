@@ -4,12 +4,12 @@
 <br>
 <b> > frazah </b>
 <br>
-<b>// Computer Science M.Sc. // Software Dev //</b>
+<b>Computer Science M.Sc. // Software Dev</b>
 <br>
 <br>
-<sub>// netrunner // 808maker // entry fragger //</sub>
+<sub>netrunner // 808maker // entry fragger</sub>
 <br>
-<sub>// find me in the ether // follow the digital wind //</sub>
+<sub>find me in the ether // follow the digital wind</sub>
 <br>
 <br>
 <sub><code>[ CLOSE CONNECTION_ ]</code></sub>
