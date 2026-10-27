@@ -7,7 +7,7 @@
 <b>Computer Science M.Sc. // Software Dev</b>
 <br>
 <br>
-<sub>netrunner // 808maker // entry fragger</sub>
+<sub>netrunner // 808maker // pixelgazer</sub>
 <br>
 <sub>find me in the ether // follow the digital wind</sub>
 <br>
